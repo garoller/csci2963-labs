@@ -1,8 +1,6 @@
 The Open Source Defintion
 
-This defintion is important to that everyone can be held to the same standards for open source 
-
-code and projects.
+This defintion is important becasue it serves as a standard for all open source code and projects.
 
 
 How to Ask Questions the Smart Way
