@@ -1,6 +1,9 @@
 Grace Roller
 
-email: gracearoller@gmail.com
-       rolleg@rpi.edu
+RPI email: rolleg@rpi.edu
+
+gmail: gracearoller@gmail.com
+
 github account: garoller
+
 slack handle: groller
