@@ -59,19 +59,19 @@
  
  and for the common good - write 5 to 10 sentences.
  
- For a developer, it depends what their ultimate goal is. If he/she wants to make money off of this, they may want to choose
+ For a developer, it depends what their ultimate goal is. If he/she wants to make money off of this, they may want to 
  
- Apache/BSD, because they are able to sublicense, if major changes are made that they want to keep proprietary. On the other
+ choose Apache/BSD, because they are able to sublicense, if major changes are made that they want to keep proprietary. 
  
- hand, if the developer wants to promote open source for the most amount of people and isn't interested in making a profit,
+ On the other hand, if the developer wants to promote open source for the most amount of people and isn't interested 
  
- they could choose GPL or LGPL. A company most likely would want to use the Apache/BSD license, for the same reasons a
+ in making a profit, they could choose GPL or LGPL. A company most likely would want to use the Apache/BSD license, 
  
- developer would. In some cases, like if the company were non-profit or a charity, they could choose GPL or LGPL. The GPL is 
+ for the same reasons a developer would. In some cases, like if the company were non-profit or a charity, they could 
  
- probably the best license for the common good, because it forces the development of code and projects to also be GPL. This 
+ choose GPL or LGPL. The GPL is probably the best license for the common good, because it forces the development of 
  
- allows for the most freedom for collaboration and making changes and improvments.  
+ code and projects to also be GPL. This allows for the most freedom for collaboration and making changes and improvments.  
  
 
 8. Create a repository and choose a license. 
