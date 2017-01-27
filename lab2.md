@@ -1,7 +1,5 @@
 1. Read the four criteria for Free Software.
 
-
-
 2. Why is it important to choose a license?
 
  It is important to choose a license, because a license determines the development of that project or code. 
@@ -57,9 +55,9 @@
  Current license - GNU GPL, so any changes or modifications made must also be under a GPL. 
  
 
-7. Read these licenses GPL, LGPL and Apache/BSD and discuss which one will be better - for a developer, for a company and for 
-
- the common good - write 5 to 10 sentences.
+7. Read these licenses GPL, LGPL and Apache/BSD and discuss which one will be better - for a developer, for a company 
+ 
+ and for the common good - write 5 to 10 sentences.
  
  For a developer, it depends what their ultimate goal is. If he/she wants to make money off of this, they may want to choose
  
@@ -78,7 +76,7 @@
 
 8. Create a repository and choose a license. 
  
- Repository - 
+ 
 
 9. Write five sentences about choosing a project to work on in this course, who will be users/customers of 
 
@@ -97,6 +95,6 @@
  | https://github.com/SeanWaclawik/courseproject | Yes | MIT https://github.com/SeanWaclawik/courseproject/blob/master/LICENSE |
    
  
- 
+ <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
  
  
