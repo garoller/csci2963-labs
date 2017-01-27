@@ -23,6 +23,13 @@ litigation.
 
 Do you agree with the Failure to follow the Open System Model Section of Why the Web beat Gopher?
 
+"mind share represents how strong a presence those products or services have in the minds of consumers."
+
+web browser that gets more traffic is better than a browser that gets less traffic
+
+Gopher's rapid gain and loss of mind share
+
+
 Justify why one of the licenses were chosen.
 
 Think of an example project. Pick a license using the LICENESE choose by Github.
