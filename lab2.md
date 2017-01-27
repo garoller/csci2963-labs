@@ -8,9 +8,9 @@
 
  license allows othe smart people to improve existing code, without the threat of litigation. Additionally, choosing 
 
- the right license is important becasue that affects how the code is distributed and used after changes are made. The original
-
- developer has the right to choose which kind of license they want, becasue it affects the development.
+ the right license is important becasue that affects how the code is distributed and used after changes are made. The 
+ 
+ original developer has the right to choose which kind of license they want, becasue it affects the development.
 
 
 3. Why is it important that you shouldn't use a project that doesn't have an explicit license?
@@ -39,13 +39,13 @@
 
  The original developer of Linux, Linus Torvalds, was motivated to develop a new operating system, by a sub-par operating 
 
- system, MINIX, which was only allowed to be used for educational purposes. During the development of Linux, GNU applications 
-
- replaced MINIX components, because it was easier to use the available code, licensed under GPL. Torvalds then switched from 
-
- the original license to GPL to utilize the GNU applications. He was forced to license Linux under GPL in order to use the GNU
-
- applications, but the GPL also aligns with his original frustration with the limitation of MINIX.
+ system, MINIX, which was only allowed to be used for educational purposes. During the development of Linux, GNU 
+ 
+ applications replaced MINIX components, because it was easier to use the available code, licensed under GPL. Torvalds then 
+ 
+ switched from the original license to GPL to utilize the GNU applications. He was forced to license Linux under GPL in order 
+ 
+ to use the GNU applications, but the GPL also aligns with his original frustration with the limitation of MINIX.
 
 
 6. Think of an example project. Pick a license using the LICENESE choose by Github.
