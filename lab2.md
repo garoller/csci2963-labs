@@ -71,7 +71,9 @@
  
  choose GPL or LGPL. The GPL is probably the best license for the common good, because it forces the development of 
  
- code and projects to also be GPL. This allows for the most freedom for collaboration and making changes and improvments.  
+ code and projects to also be GPL. This allows for the most freedom for collaboration and making changes and 
+ 
+ improvments.  
  
 
 8. Create a repository and choose a license. 
@@ -82,6 +84,7 @@
 
    the project, and what license will you choose.
   
+   
   
  
 10. Project table:
@@ -96,5 +99,3 @@
    
  
  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
- 
- 
