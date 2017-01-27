@@ -78,7 +78,7 @@
 
 8. Create a repository and choose a license. 
  
-https://github.com/garoller/csci2963-project
+ https://github.com/garoller/csci2963-project
 
 
 9. Write five sentences about choosing a project to work on in this course, who will be users/customers of 
