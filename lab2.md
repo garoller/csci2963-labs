@@ -1,4 +1,4 @@
-1. Read the four criteria for Free Software.
+Read the four criteria for Free Software.
 
 Why is it important to choose a license?
 
@@ -12,19 +12,26 @@ the right license is important becasue that affects how the code is distributed 
 
 developer has the right to choose which kind of license they want, becasue it affects the development.
 
-3. Why is it important that you shouldn't use a project that doesn't have an explicit license?
+Why is it important that you shouldn't use a project that doesn't have an explicit license?
 
-4. Do you agree with the Failure to follow the Open System Model Section of Why the Web beat Gopher?
+It is important to not use an unlicensed project, because that project is proprietary to the original developer.
 
-5. Justify why one of the licenses were chosen.
+Changing an unlicensed project and distributing it, violates their ownership, and could lead to legal problems or 
 
-6. Think of an example project. Pick a license using the LICENESE choose by Github.
+litigation. 
 
-7. 
 
-8. Repository - 
+Do you agree with the Failure to follow the Open System Model Section of Why the Web beat Gopher?
 
-9. Write five sentences about choosing a project to work on in this course, who will be users/customers of 
- the project, and what license will you choose.
+Justify why one of the licenses were chosen.
+
+Think of an example project. Pick a license using the LICENESE choose by Github.
+
+
+
+Repository - 
+
+Write five sentences about choosing a project to work on in this course, who will be users/customers of 
+the project, and what license will you choose.
  
-10. Project table:
+Project table:
