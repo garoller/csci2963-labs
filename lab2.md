@@ -1,4 +1,5 @@
 1. Read the four criteria for Free Software.
+\n
 
 2. Why is it important to choose a license?
 
