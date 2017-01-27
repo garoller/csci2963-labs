@@ -35,9 +35,7 @@
  the development process, and then gained more momentum as improvements were made.
 
 
-5. Justify why one of the licenses were chosen.
-
- Linux GPL v2
+5. Justify why one of the licenses were chosen. - Linux GPL v2
 
  The original developer of Linux, Linus Torvalds, was motivated to develop a new operating system, by a sub-par 
  
@@ -56,15 +54,30 @@
 
  Example project - Mailpile
  
- Current license - GNU GPL
+ Current license - GNU GPL, so any changes or modifications made must also be under a GPL. 
  
 
 7. Read these licenses GPL, LGPL and Apache/BSD and discuss which one will be better - for a developer, for a company and for 
 
  the common good - write 5 to 10 sentences.
-
+ 
+ For a developer, it depends what their ultimate goal is. If he/she wants to make money off of this, they may want to choose
+ 
+ Apache/BSD, because they are able to sublicense, if major changes are made that they want to keep proprietary. On the other
+ 
+ hand, if the developer wants to promote open source for the most amount of people and isn't interested in making a profit,
+ 
+ they could choose GPL or LGPL. A company most likely would want to use the Apache/BSD license, for the same reasons a
+ 
+ developer would. In some cases, like if the company were non-profit or a charity, they could choose GPL or LGPL. The GPL is 
+ 
+ probably the best license for the common good, because it forces the development of code and projects to also be GPL. This 
+ 
+ allows for the most freedom for collaboration and making changes and improvments.  
+ 
 
 8. Create a repository and choose a license. 
+ 
  Repository - 
 
 9. Write five sentences about choosing a project to work on in this course, who will be users/customers of 
@@ -74,3 +87,16 @@
   
  
 10. Project table:
+ 
+ | Website      | License Present | License               |
+ | ------------ | --------------- | --------------------- |
+ | https://github.com/jzblee/tally               | Yes | MIT https://github.com/jzblee/tally/blob/master/LICENSE.md |
+ | http://www.weirdtube.wtf/                     | Yes | MIT https://github.com/mmetro/WeirdSideofYouTube/blob/master/LICENSE |
+ | http://git.polaritech.com/Solum/Solum         | Yes | MIT https://github.com/AdrianCollado/Solum/blob/master/LICENSE |
+ | https://github.com/zwimer/CAPP-Reporter       | Yes | GNU GPL https://github.com/zwimer/CAPP-Reporter/blob/master/LICENSE |
+ | https://github.com/SeanWaclawik/courseproject | Yes | MIT https://github.com/SeanWaclawik/courseproject/blob/master/LICENSE |
+   
+ 
+ 
+ 
+ 
