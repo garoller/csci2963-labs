@@ -37,15 +37,17 @@
 
  Linux GPL v2
 
- The original developer of Linux, Linus Torvalds, was motivated to develop a new operating system, by a sub-par operating 
-
- system, MINIX, which was only allowed to be used for educational purposes. During the development of Linux, GNU 
+ The original developer of Linux, Linus Torvalds, was motivated to develop a new operating system, by a sub-par 
  
- applications replaced MINIX components, because it was easier to use the available code, licensed under GPL. Torvalds then 
+ operating system, MINIX, which was only allowed to be used for educational purposes. During the development of 
  
- switched from the original license to GPL to utilize the GNU applications. He was forced to license Linux under GPL in order 
+ Linux, GNU applications replaced MINIX components, because it was easier to use the available code, licensed 
  
- to use the GNU applications, but the GPL also aligns with his original frustration with the limitation of MINIX.
+ under GPL. Torvalds then switched from the original license to GPL to utilize the GNU applications. He was 
+ 
+ forced to license Linux under GPL in order to use the GNU applications, but the GPL also aligns with his original 
+ 
+ frustration with the limitation of MINIX.
 
 
 6. Think of an example project. Pick a license using the LICENESE choose by Github.
