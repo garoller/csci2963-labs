@@ -78,15 +78,21 @@
 
 8. Create a repository and choose a license. 
  
- 
+https://github.com/garoller/csci2963-project
+
 
 9. Write five sentences about choosing a project to work on in this course, who will be users/customers of 
 
    the project, and what license will you choose.
-  
    
+  Mailpile seems like an interesting project. I would like to learn more about cyber security, and this project 
   
- 
+  would be a good introduction. Building an feature that could be implemented into the larger system would be fun 
+  
+  and a great learning oppourtunity.  It is still in the development stages, but ultimately the users would be people 
+  
+  that use email. The project is licensed under a GPL, so any work I would do, would also have to be under a GPL.
+   
 10. Project table:
  
  | Website      | License Present | License               |
