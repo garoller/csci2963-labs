@@ -3,6 +3,6 @@ Part 0:
 1. 
 
 
-![latex](file:///C:/Users/rolleg/Documents/Spring_2017/Open_Source/lab5/part0_latex.png)
+![latex picture](https://raw.githubusercontent.com/garoller/csci2963-labs/master/part0_latex.png)
 
 Part 1:
