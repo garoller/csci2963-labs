@@ -72,6 +72,21 @@ Part 1:
     Latest commit - Date:   Wed Feb 22 22:21:40 2017
     
     Current branches - 13
-  
 
+
+2. Gitstats
+
+  1. ![Linux]
+  
+  2. ![Mergable]
+  
+  3. ![Mini Zero]
+  
+  4. ![MxM]
+  
+  5. ![Observatory]
+
+
+
+Part 2:
 
