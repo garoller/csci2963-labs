@@ -76,15 +76,25 @@ Part 1:
 
 2. Gitstats
 
-  1. ![Linux]
+  1. Linux
   
-  2. ![Mergable]
+    ![Linux](https://raw.githubusercontent.com/garoller/csci2963-labs/master/macbook2015.png)
   
-  3. ![Mini Zero]
+  2. Mergeable
   
-  4. ![MxM]
+    ![Mergable](https://raw.githubusercontent.com/garoller/csci2963-labs/master/mergeable.png)
   
-  5. ![Observatory]
+  3. Mini Zero
+  
+    ![Mini Zero](https://raw.githubusercontent.com/garoller/csci2963-labs/master/rrs-rcos.png)
+  
+  4. MxM 
+  
+    ![MxM](https://raw.githubusercontent.com/garoller/csci2963-labs/master/mxm.png)
+  
+  5. Observatory 
+  
+    ![Observatory](https://raw.githubusercontent.com/garoller/csci2963-labs/master/observatory3.png)
 
 
 
