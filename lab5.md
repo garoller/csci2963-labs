@@ -17,6 +17,8 @@ Part 1:
 
     Contributors - 1
     
+    Leader - Max / Maximus
+    
     Lines of Code - 16  179 1111 README
     
     First Commit - Date:   Thu Jan 19 10:36:55 2017 -0500
@@ -28,6 +30,8 @@ Part 1:
  2. [Mergeable](https://github.com/ben-wolf/mergeable)
     
     Contributors - 2
+    
+    Leader - Ben Wolf
     
     Lines of Code - 672   99006 6476961 total
     
@@ -41,6 +45,8 @@ Part 1:
     
     Contributors - 1
     
+    Leader - feldhausenryan
+    
     Lines of Code -  252890  1113114 31162207 total
     
     First Commit - 6 months ago
@@ -51,7 +57,9 @@ Part 1:
  
  4. [MxM](https://github.com/musicexmachina/mxm)
  
-    Contributors - 1
+    Contributors - 4
+    
+    Leader - Patrick Celentano
     
     Lines of Code - 26611   94320 1430702 total
     
@@ -64,6 +72,8 @@ Part 1:
  5. [Observatory](https://github.com/rcos/observatory3)
  
     Contributors - 37
+    
+    Leader - agundy
     
     Lines of Code - 16508  42817 568096 total
     
