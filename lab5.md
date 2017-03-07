@@ -89,22 +89,32 @@ Part 1:
   1. Linux
   
     ![Linux](https://raw.githubusercontent.com/garoller/csci2963-labs/master/macbook2015.png)
+    
+    ![1](https://raw.githubusercontent.com/garoller/csci2963-labs/master/lab5/Screenshot%20(203).png)
   
   2. Mergeable
   
     ![Mergable](https://raw.githubusercontent.com/garoller/csci2963-labs/master/mergeable.png)
+    
+    ![2](https://raw.githubusercontent.com/garoller/csci2963-labs/master/lab5/Screenshot%20(204).png)
   
   3. Mini Zero
   
     ![Mini Zero](https://raw.githubusercontent.com/garoller/csci2963-labs/master/rrs-rcos.png)
+    
+    ![3](https://raw.githubusercontent.com/garoller/csci2963-labs/master/lab5/Screenshot%20(206).png)
   
   4. MxM 
   
     ![MxM](https://raw.githubusercontent.com/garoller/csci2963-labs/master/mxm.png)
+    
+    ![4](https://raw.githubusercontent.com/garoller/csci2963-labs/master/lab5/Screenshot%20(205).png)
   
   5. Observatory 
   
     ![Observatory](https://raw.githubusercontent.com/garoller/csci2963-labs/master/observatory3.png)
+    
+    ![5](https://raw.githubusercontent.com/garoller/csci2963-labs/master/lab5/Screenshot%20(207).png)
 
 
 
