@@ -1,3 +1,3 @@
 Word Ladder Puzzle
 
-![wd]()
+![wd](https://raw.githubusercontent.com/garoller/csci2963-labs/master/lab6/puzzle_solution.jpg)
