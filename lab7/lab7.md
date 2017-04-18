@@ -16,6 +16,10 @@ Output:
 
 ![](https://raw.githubusercontent.com/garoller/csci2963-labs/master/lab7/grad5.png)
 
+![](https://raw.githubusercontent.com/garoller/csci2963-labs/master/lab7/grad6.png)
+
+![](https://raw.githubusercontent.com/garoller/csci2963-labs/master/lab7/grad7.png)
+
 Election Data:
 
 [Source Code](https://github.com/garoller/csci2963-labs/blob/master/lab7/elect.R)
